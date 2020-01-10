@@ -25,3 +25,9 @@
 # How to Play
 
 ### Press any key on your Keyboard and listen and watch as the screen changes before your eyes!
+
+
+
+# Thanks
+
+### Big thanks to Howler.js, Patatap, and Colt Steele for their inspiration, help and guidance
